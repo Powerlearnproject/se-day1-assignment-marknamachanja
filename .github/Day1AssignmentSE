@@ -1,3 +1,105 @@
-Software engineering is the application of engineering principles to the design, development, and maintenance of software systems
-to ensure they are reliable, efficient, and meet user needs. It is essential in the technology industry because it ensures the 
-creation of high-quality software products that meet user requirements and are maintainable, scalable, and secure.
+1)Software engineering is the application of engineering principles to the design, development, and maintenance of software systems to ensure they are reliable, efficient, and meet user needs.
+It is essential in the technology industry because it ensures the creation of high-quality software products that meet user requirements and are maintainable, scalable, and secure.
+2)The introduction of structured programming
+Structured programming is a programming paradigm that emphasizes the use of control structures, such as loops and conditional statements
+The rise of object oriented programming
+Object-oriented programming (OOP) is a programming paradigm that revolves around the concept of objects and classes
+The advent of agile methodologies
+Agile methodologies are software development approaches that emphasize flexibility, collaboration, and rapid delivery of working software.
+3)Phases of SDLC:
+Requirement gathering:
+The process of gathering and documenting the requirements of the software system to be developed.
+Requirent analysis:
+The process of analyzing the requirements gathered to ensure they are clear, concise, and feasible.
+Design:
+The process of creating a detailed plan for the software system, including its architecture, components, and interfaces
+Development:
+The process of writing the code for the software system, based on the design plan.
+Testing:
+The process of verifying that the software system meets the requirements and works as expected.
+Implementation:
+The process of deploying the software system in a production environment.
+Maintenance:
+The process of fixing bugs, updating the software system, and ensuring it continues to meet user needs.
+4)Differences between waterfall and agile methodologies:
+Waterfall:
+Linear and sequential:
+A linear approach to software development, where each phase is completed before moving on to the next one.
+Rigid:
+The waterfall approach is inflexible and does not allow for changes once the project is underway to the next phase.
+Documentation driven:
+The waterfall approach relies heavily on documentation and planning before starting the development process.
+Appropriate scenarios:
+The waterfall approach is suitable for projects with well-defined requirements and a fixed scope.
+Agile:
+Iterative and incremental:
+An iterative approach to software development, where the project is divided into smaller, manageable chunks, and each
+chunk is developed and delivered in a series of iterations.
+Flexible:
+Agile is flexible and allows for changes and adaptations throughout the project.
+Collaboration focused:
+Agile emphasizes collaboration and communication among team members, stakeholders, and customers.
+Appropriate scenarios:
+The agile approach is suitable for projects with uncertain or changing requirements, or where the scope is not well
+defined.
+5)Roles and responsibility:
+Software Developer:
+Responsible for writing the code for the software system, based on the design plan.
+Quality Assurance Engineer:
+Responsible for testing the software system to ensure it meets the requirements and works as expected.
+Project Manager:
+Responsible for overseeing the entire software development project, including planning, execution, and delivery.
+6)Importance of IDE and VCS:
+IDE:
+ Offer powerful code editors with syntax highlighting, autocomplete, and code suggestions, making it easier to write, understand, and debug code.
+ Debugging tools that allow developers to step through their code, set breakpoints, inspect variables, and identify errors quickly.
+ Help manage project files, dependencies, and libraries, providing a structured workspace that keeps all components of a project organized.
+ Built-in tools for compiling, building, and deploying applications, which simplifies the development cycle and reduces the need to switch between different tools.
+ Plugins and extensions to add functionality specific to the developer's needs, making them adaptable to different languages, frameworks, and workflows.
+ Examples:
+ Eclipse, Visual Studio, IntelliJ IDEA, NetBeans, PyCharm.
+VCS:
+Helps manage changes to the codebase by tracking changes, identifying conflicts, and providing a history of
+changes.
+Helps collaborate with team members by allowing multiple developers to work on the same project simultaneously.
+Helps ensure data integrity by providing a single source of truth for the codebase.
+Examples:
+Git, SVN, Mercurial, Perforce, TFS.
+7)Challenges faced by software engineers:
+Lack of clear requirements and changing project scope.
+Inadequate testing and debugging.
+Inadequate documentation and knowledge sharing.
+Tight deadlines
+Inadequate resources and budget constraints.
+Adapting to new technologies
+Debugging and fixing bugs
+Collaboration and communication with team members
+Solutions:
+Clear requirements and project scope definition
+Regular testing and debugging
+Regular documentation and knowledge sharing
+Regular communication and collaboration with team members
+Engage in continuous learning to adapt to new technologies
+Adopt Test Driven Development to catch bugs early
+Use of VCS for effective communication and collaboration
+8)Different types of testing units:
+Unit testing:
+Tests individual units of code, such as functions or methods, to ensure they work as expected.
+Integration testing:
+Tests how different units of code work together to ensure they integrate correctly.
+System testing:
+Tests the entire software system to ensure it meets the requirements and works as expected.
+Acceptance testing:
+Tests the software system to ensure it meets the acceptance criteria and is ready for deployment.
+9)What is AI prompt engineering:
+AI prompt engineering is the process of designing and crafting high-quality prompts to elicit accurate and relevant responses
+from AI models.
+Importance:
+Helps improve the accuracy and relevance of AI responses.
+10)Example of a vague AI prompt:
+Write a story about a character who is a hero.
+Correction to make it clear and concise:
+Write a 500-word story about a character who is a hero in a fantasy world, overcoming
+obstacles to save the kingdom from an evil sorcerer
+Why the concise prompt is more effective:
+It provides clear context and requirements.
